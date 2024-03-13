@@ -9,3 +9,5 @@
 # Video
 
 ![](images/easybank.mp4)
+
+![](images/easybank.gif)
